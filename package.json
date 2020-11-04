@@ -1,0 +1,26 @@
+{
+  "name": "@agtech/crypt-utils",
+  "version": "1.0.0",
+  "description": "A library for encryption and decryption using aes-256-gcm algorithim.",
+  "keywords": [
+    "aes-256-gcm",
+    "encryption",
+    "decryption",
+    "md5",
+    "hash"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jugnuagrawal/-agtech-crypt-utils.git"
+  },
+  "author": "Jugnu Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jugnuagrawal/-agtech-crypt-utils/issues"
+  },
+  "homepage": "https://github.com/jugnuagrawal/-agtech-crypt-utils#readme"
+}
